@@ -16,6 +16,8 @@
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 
+<script>
+// Informasi diri
 const nama = "Nama Anda";
 const alamatEmail = "email@example.com";
 const alamat = "Alamat Anda";
@@ -36,3 +38,7 @@ function tampilkanInfoDiri() {
         hobiList.appendChild(li);
     });
 }
+
+// Memanggil fungsi untuk menampilkan informasi diri setelah halaman dimuat
+window.onload = tampilkanInfoDiri;
+</script>

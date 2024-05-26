@@ -9,10 +9,11 @@
 * ⚡ Fakta menarik: ... saya lebih suka Nasi menjadi protein dari pada Nikah sama Tante jihyo
 
 * <h2> 🚀  Beberapa Alat yang Telah Saya Gunakan dan Pelajari</h2> 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <p align="left"> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/ vscode-original.svg " alt="vscode" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash- asli.svg " alt="bash" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original. svg " alt="php" lebar="45" tinggi="45"/> 
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="vscode" width="45" height="45"/> 
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="Javascript" width="45" height="45"/> 
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="C++" width="45" height="45"/> 
 </p>
 
 ### <summary><strong>Let's connect!</strong></summary>

@@ -8,7 +8,7 @@
 * ❤️ Saya suka ... Makan
 * ⚡ Fakta menarik: ... saya lebih suka Nasi menjadi protein dari pada Nikah sama Tante jihyo
 
-### <summary><strong>Contact!!</strong></summary>
+- ### <summary><strong>Contact!!</strong></summary>
 <a href="https://x.com/dmradhdyo">
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
